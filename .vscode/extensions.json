@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        // c/c++ development
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack",
+        // cmake
+        "ms-vscode.cmake-tools"
+    ]
+}
